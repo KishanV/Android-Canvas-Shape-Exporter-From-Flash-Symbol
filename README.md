@@ -22,7 +22,7 @@ Export android canvas shape from flash symbol as java code.
 ### Examples Apps (click on links)
 
 * [Music Player App](https://play.google.com/store/apps/details?id=com.linedeer.music.handler)
-* [Music Player App](https://play.google.com/store/apps/details?id=com.linedeer.music.handler)
+* [Connect Me : Square Mate Game](https://play.google.com/store/apps/details?id=com.linedeer.games.squaremate)
 
 
 ### Git Repository (click on links)
